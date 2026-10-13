@@ -1,0 +1,6 @@
+# Preserve the generated source and original evidence logs byte-for-byte.
+* -text
+*.sh text eol=lf
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf

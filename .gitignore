@@ -1,0 +1,17 @@
+# Track the code-and-log upload scope at the project root.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/firmware/
+!/scripts/
+!/logs/
+!/docs/
+
+# Local build products and IDE state are regenerated on each machine.
+**/build/
+**/.mxproject
+**/.vscode/
+**/__pycache__/
+*.pyc
+.DS_Store

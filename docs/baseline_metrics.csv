@@ -1,0 +1,5 @@
+metric,value,unit,capacity_bytes,percent_of_region,source
+Flash,6152,B,1048576,0.586700439453125,logs/bringup/build.log
+RAM1,1584,B,98304,1.611328125,logs/bringup/build.log
+Download,431.0,ms,,,logs/bringup/flash.log
+Readback,95.0,ms,,,logs/bringup/flash.log
